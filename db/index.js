@@ -14,7 +14,16 @@ module.exports = class DataBase {
         online: false,
         password: 'demo',
         dialogues: [],
-        created: '14:59 16.12.2021',
+        created: '14:59 10.11.2022',
+      },
+      {
+        id: '22c854f8-b535-4e82-b267-1af2940d0vnk',
+        avatar: '',
+        login: 'gena',
+        online: false,
+        password: 'gena',
+        dialogues: [],
+        created: '11:37 19.11.2022',
       },
     ];
     this.clients = new Map();
