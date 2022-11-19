@@ -18,7 +18,7 @@ module.exports = class DataBase {
       },
       {
         id: '22c854f8-b535-4e82-b267-1af2940d0vnk',
-        avatar: '',
+        avatar: 'demo_avatar.png',
         login: 'gena',
         online: false,
         password: 'gena',
